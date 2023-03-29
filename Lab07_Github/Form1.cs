@@ -19,7 +19,7 @@ namespace Lab07_Github
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Lab 07");
+            MessageBox.Show("Lab 07 edit by user02");
         }
     }
 }
